@@ -17,7 +17,7 @@ This project analyzes Google Trends data for Richemont brands to study market in
     python scripts/main.py
 
  **Project Structure**
-richemont-trends/
+```richemont-trends/
 ├── data/
 │   ├── richemont_trends_raw.csv
 │   └── richemont_trends_clean.csv
@@ -26,4 +26,4 @@ richemont-trends/
 │   ├── data_pipeline.py
 │   └── automation_refresh.py
 ├── requirements.txt
-└── README.md
+└── README.md```
