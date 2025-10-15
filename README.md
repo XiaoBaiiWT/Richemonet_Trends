@@ -23,7 +23,7 @@ richemont-trends/
 │   └── richemont_trends_clean.csv
 ├── scripts/
 │   ├── main.py
-│   ├── automation_refresh.py
-│   └── data_pipeline.py
+│   ├── data_pipeline.py
+│   └── automation_refresh.py
 ├── requirements.txt
 └── README.md
