@@ -26,4 +26,4 @@ This project analyzes Google Trends data for Richemont brands to study market in
 │   ├── data_pipeline.py
 │   └── automation_refresh.py
 ├── requirements.txt
-└── README.md```
+└── README.md
