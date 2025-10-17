@@ -27,5 +27,6 @@ This project analyzes Google Trends data for Richemont brands to study market in
 │   └── automation_refresh.py
 ├── requirements.txt
 └── README.md
-![Interactive Looker Dashboard](Richemont Dashboard.jpg)
+
+![Interactive Looker Dashboard](images/rich pic.png)
 *Interactive Looker dashboard used for analysis for my Richemont project.*
