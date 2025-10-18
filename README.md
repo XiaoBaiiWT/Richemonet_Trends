@@ -29,7 +29,7 @@ This project analyzes Google Trends data for Richemont brands to study market in
 └── README.md
 
 *Interactive Looker dashboard used for Richemont Trends analysis.*
-[![Interactive Looker Dashboard](./images/Richemont_Dashboard.png)](https://github.com/XiaoBaiiWT/Richemonet_Trends/blob/e3262021c210654555a70eabe43942c2c89db9ab/images/Richemont_Dashboard.png)
+![image alt](./images/Richemont_Dashboard.png)](https://github.com/XiaoBaiiWT/Richemonet_Trends/blob/e3262021c210654555a70eabe43942c2c89db9ab/images/Richemont_Dashboard.png)
 
 
 
